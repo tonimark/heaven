@@ -132,12 +132,18 @@
   storage:
     back:
     - BibleNanoTrasen
-    
+
 - type: loadout
   id: BibleNarsie
   storage:
     back:
     - BibleNarsie
+
+- type: loadout
+  id: BibleBookOfLife
+  storage:
+    back:
+    - BibleBookOfLife
 
 - type: loadout
   id: BibleHonk
